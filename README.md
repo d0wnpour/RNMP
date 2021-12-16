@@ -1,1 +1,1 @@
-# Repository for React Native Mentoring Programme
+# Repository For React Native Mentoring Programme
